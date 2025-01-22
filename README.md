@@ -16,3 +16,7 @@ Step 4 Add Basic Code Add basic code to each file using echo:
 
 ![Example Image](Images/4.png)
 ![Example Image](Images/4(2).png)
+
+Step 5 Execute Files Run C++ Files, Python and Shellscript files
+
+![Example Image](Images/5.png)
