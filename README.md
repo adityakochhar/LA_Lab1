@@ -7,3 +7,8 @@ Step 2 Create Files Create three files in each folder using a single command:  t
 ~/Desktop/Shell\ Script/{1\ Shell,2\ Shell,3\ Shell}.sh
 
 ![Example Image](Images/2.png)
+
+Step 3 Assign Permissions Make all files executable: chmod +x ~/Desktop/C++/*.cpp ~/Desktop/Python/*.py ~/Desktop/Shell\ Script/*.sh
+
+![Example Image](Images/3.png)
+
