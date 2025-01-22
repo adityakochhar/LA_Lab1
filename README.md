@@ -12,3 +12,7 @@ Step 3 Assign Permissions Make all files executable: chmod +x ~/Desktop/C++/*.cp
 
 ![Example Image](Images/3.png)
 
+Step 4 Add Basic Code Add basic code to each file using echo:
+
+![Example Image](Images/4.png)
+![Example Image](Images/4(2).png)
